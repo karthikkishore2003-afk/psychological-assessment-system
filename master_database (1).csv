@@ -1,0 +1,11 @@
+Name,Gender,TAS_Score,TAS_Interpretation,BEIS_Score,BEIS_Interpretation,DASS_Score,DASS_Interpretation
+ROHAN K,Male,51,No alexithymia,33,Average Emotional Intelligence,10,Moderate
+DEV M,Male,59,Possible alexithymia,39,High Emotional Intelligence,4,Normal
+AP,Female,61,Alexithymia likely present,22,Low Emotional Intelligence,11,Moderate
+MUKESH CB,Female,64,Alexithymia likely present,27,Average Emotional Intelligence,6,Normal
+KK,Female,59,Possible alexithymia,32,Average Emotional Intelligence,8,Mild
+AS,Female,54,Possible alexithymia,33,Average Emotional Intelligence,3,Normal
+VISMAYA P,Female,65,Alexithymia likely present,33,Average Emotional Intelligence,5,Normal
+ABHIJITH M,Female,69,Alexithymia likely present,26,Average Emotional Intelligence,9,Mild
+ANU R,Female,61,Alexithymia likely present,32,Average Emotional Intelligence,11,Moderate
+MEERA S,Female,60,Possible alexithymia,32,Average Emotional Intelligence,11,Moderate
